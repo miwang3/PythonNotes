@@ -1,1 +1,1 @@
-# Course2
+# Python Notes
